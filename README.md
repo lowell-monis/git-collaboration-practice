@@ -13,7 +13,3 @@
 **Programming Background:** Fairly experienced with Python, Git (Bash), and R. Danced around with SQL.
 
 
-**Group Member 2**
-Name: Katelyn Buechler
-Email Address: buechl16@msu.edu
-
