@@ -14,15 +14,6 @@
 
 
 **Group Member 2**
-
 Name: Katelyn Buechler
-
 Email Address: buechl16@msu.edu
 
-What is your major?: Computational Data Science
-
-What year are you in school?: Sophomore
-
-Where are you from?: Grosse Pointe
-
-What is your programming background?: I have experience in Python and R!
